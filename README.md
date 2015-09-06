@@ -2,7 +2,7 @@
 
 Raspberry Pi + Roomba Robot
 
-![](//c0nfused.github.io/assets/images/robopi.jpg)
+![](https://c0nfused.github.io/assets/images/robopi.jpg)
 
 ### Developer
 Joshua Richard <http://joshrichard.net>  
