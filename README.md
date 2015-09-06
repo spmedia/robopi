@@ -4,6 +4,10 @@ Raspberry Pi + Roomba Robot
 
 ![](https://c0nfused.github.io/assets/images/robopi.jpg)
 
+### Web Based Control & Video Stream
+
+![](https://c0nfused.github.io/assets/images/robopi-controller.jpg)
+
 ### Developer
 Joshua Richard <http://joshrichard.net>  
 
