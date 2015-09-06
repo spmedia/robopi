@@ -1,0 +1,95 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #000;
+    color: #FFF;
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+#btnSend {
+    position: absolute;
+    left: 435px;
+    top: 185px;
+}
+#message {
+    position: absolute;
+    left: 250px;
+    width: 130px;
+    top: 185px;
+    height: 18px;
+}
+#up {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 70px;
+    height: 70px;
+    top: 5px;
+    left: 65px;
+    padding: 20px 10px 0 10px;
+}
+#down {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 70px;
+    height: 70px;
+    top: 105px;
+    left: 65px;
+    padding: 10px;
+}
+#left {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 70px;
+    height: 70px;
+    top: 57px;
+    left: 10px;
+    padding: 10px;
+}
+#right {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 70px;
+    height: 70px;
+    top: 57px;
+    left: 118px;
+    padding: 10px;
+}
+#Menu {
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 70px;
+    height: 45px;
+    top: 170px;
+    left: 200px;
+    padding: 10px 10px 10px 10px;
+}
+#messagebox {
+    position: absolute;
+    top: 5px;
+    left: 215px;
+    width: 300px;
+    height: 75px;
+    color: #FFF;
+}
+#btnHorn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+#btnHome {
+  position: absolute;
+  top: 5px;
+  right: 74px;
+}
+#video_feed {
+    position: absolute;
+    top: 5px;
+    left: 190px;
+}

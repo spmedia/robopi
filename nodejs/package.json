@@ -1,0 +1,20 @@
+{
+  "name": "robopi",
+  "version": "1.1.1",
+  "description": "Raspberry Pi + Roomba Robot",
+  "author": "Josh Richard <http://joshrichard.net>",
+  "scripts": {
+    "start": "node server.js &"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0nfused/robopi.git"
+  }
+}
