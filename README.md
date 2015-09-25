@@ -11,7 +11,7 @@ Raspberry Pi + Roomba Robot
 ### Developer
 Joshua Richard <http://joshrichard.net>  
 
-### Special Thank you & Shout outs
+### Special Thank you & Shout outs <3
 - <https://stackoverflow.com/questions/32419968/python-web-server-error/32420031>
 - <https://stackoverflow.com/questions/32421197/struct-error-required-argument-is-not-an-integer>
 
